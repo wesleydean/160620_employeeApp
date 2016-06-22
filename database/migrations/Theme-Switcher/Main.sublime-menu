@@ -1,0 +1,452 @@
+[
+    {
+        "id": "preferences", 
+        "children": [
+            {
+                "id": "themes", 
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "command": "switchtheme", 
+                                "args": {
+                                    "name": "Material Augmented Reaction.sublime-theme"
+                                }, 
+                                "caption": "Material Augmented Reaction"
+                            }, 
+                            {
+                                "command": "switchtheme", 
+                                "args": {
+                                    "name": "Material Behave.sublime-theme"
+                                }, 
+                                "caption": "Material Behave"
+                            }, 
+                            {
+                                "command": "switchtheme", 
+                                "args": {
+                                    "name": "Material Brogrammer.sublime-theme"
+                                }, 
+                                "caption": "Material Brogrammer"
+                            }, 
+                            {
+                                "command": "switchtheme", 
+                                "args": {
+                                    "name": "Material Cobalt.sublime-theme"
+                                }, 
+                                "caption": "Material Cobalt"
+                            }, 
+                            {
+                                "command": "switchtheme", 
+                                "args": {
+                                    "name": "Material Flatland.sublime-theme"
+                                }, 
+                                "caption": "Material Flatland"
+                            }, 
+                            {
+                                "command": "switchtheme", 
+                                "args": {
+                                    "name": "Material Glacier.sublime-theme"
+                                }, 
+                                "caption": "Material Glacier"
+                            }, 
+                            {
+                                "command": "switchtheme", 
+                                "args": {
+                                    "name": "Material Monokai Soda.sublime-theme"
+                                }, 
+                                "caption": "Material Monokai Soda"
+                            }, 
+                            {
+                                "command": "switchtheme", 
+                                "args": {
+                                    "name": "Material Monokai.sublime-theme"
+                                }, 
+                                "caption": "Material Monokai"
+                            }, 
+                            {
+                                "command": "switchtheme", 
+                                "args": {
+                                    "name": "Material Oceanic Next.sublime-theme"
+                                }, 
+                                "caption": "Material Oceanic Next"
+                            }, 
+                            {
+                                "command": "switchtheme", 
+                                "args": {
+                                    "name": "Material One Dark.sublime-theme"
+                                }, 
+                                "caption": "Material One Dark"
+                            }, 
+                            {
+                                "command": "switchtheme", 
+                                "args": {
+                                    "name": "Material Primer Light.sublime-theme"
+                                }, 
+                                "caption": "Material Primer Light"
+                            }, 
+                            {
+                                "command": "switchtheme", 
+                                "args": {
+                                    "name": "Material Seti.sublime-theme"
+                                }, 
+                                "caption": "Material Seti"
+                            }, 
+                            {
+                                "command": "switchtheme", 
+                                "args": {
+                                    "name": "Material Solarized Dark.sublime-theme"
+                                }, 
+                                "caption": "Material Solarized Dark"
+                            }, 
+                            {
+                                "command": "switchtheme", 
+                                "args": {
+                                    "name": "Material Solarized Light.sublime-theme"
+                                }, 
+                                "caption": "Material Solarized Light"
+                            }, 
+                            {
+                                "command": "switchtheme", 
+                                "args": {
+                                    "name": "Material Spaceblack.sublime-theme"
+                                }, 
+                                "caption": "Material Spaceblack"
+                            }, 
+                            {
+                                "command": "switchtheme", 
+                                "args": {
+                                    "name": "Material Spacegray Eighties.sublime-theme"
+                                }, 
+                                "caption": "Material Spacegray Eighties"
+                            }, 
+                            {
+                                "command": "switchtheme", 
+                                "args": {
+                                    "name": "Material Spacegray Light.sublime-theme"
+                                }, 
+                                "caption": "Material Spacegray Light"
+                            }, 
+                            {
+                                "command": "switchtheme", 
+                                "args": {
+                                    "name": "Material Spacegray Mocha.sublime-theme"
+                                }, 
+                                "caption": "Material Spacegray Mocha"
+                            }, 
+                            {
+                                "command": "switchtheme", 
+                                "args": {
+                                    "name": "Material Spacegray.sublime-theme"
+                                }, 
+                                "caption": "Material Spacegray"
+                            }, 
+                            {
+                                "command": "switchtheme", 
+                                "args": {
+                                    "name": "Material Stereokai.sublime-theme"
+                                }, 
+                                "caption": "Material Stereokai"
+                            }, 
+                            {
+                                "command": "switchtheme", 
+                                "args": {
+                                    "name": "Material Toy Chest.sublime-theme"
+                                }, 
+                                "caption": "Material Toy Chest"
+                            }, 
+                            {
+                                "command": "switchtheme", 
+                                "args": {
+                                    "name": "Material Twilight.sublime-theme"
+                                }, 
+                                "caption": "Material Twilight"
+                            }, 
+                            {
+                                "command": "switchtheme", 
+                                "args": {
+                                    "name": "Material Vim Blackboard.sublime-theme"
+                                }, 
+                                "caption": "Material Vim Blackboard"
+                            }, 
+                            {
+                                "command": "switchtheme", 
+                                "args": {
+                                    "name": "Material Zenburn.sublime-theme"
+                                }, 
+                                "caption": "Material Zenburn"
+                            }
+                        ], 
+                        "caption": "Materialize-Appbar"
+                    }, 
+                    {
+                        "children": [
+                            {
+                                "command": "switchtheme", 
+                                "args": {
+                                    "name": "Seti.sublime-theme"
+                                }, 
+                                "caption": "Seti"
+                            }, 
+                            {
+                                "command": "switchtheme", 
+                                "args": {
+                                    "name": "Seti_orig.sublime-theme"
+                                }, 
+                                "caption": "Seti_orig"
+                            }
+                        ], 
+                        "caption": "Seti_UI"
+                    }, 
+                    {
+                        "children": [
+                            {
+                                "command": "switchtheme", 
+                                "args": {
+                                    "name": "Default.sublime-theme"
+                                }, 
+                                "caption": "Default"
+                            }
+                        ], 
+                        "caption": "Theme - Default"
+                    }, 
+                    {
+                        "children": [
+                            {
+                                "command": "switchtheme", 
+                                "args": {
+                                    "name": "Solarized Space Brick.sublime-theme"
+                                }, 
+                                "caption": "Solarized Space Brick"
+                            }, 
+                            {
+                                "command": "switchtheme", 
+                                "args": {
+                                    "name": "Solarized Space Dark.sublime-theme"
+                                }, 
+                                "caption": "Solarized Space Dark"
+                            }, 
+                            {
+                                "command": "switchtheme", 
+                                "args": {
+                                    "name": "Solarized Space Light.sublime-theme"
+                                }, 
+                                "caption": "Solarized Space Light"
+                            }, 
+                            {
+                                "command": "switchtheme", 
+                                "args": {
+                                    "name": "Solarized Space Predawn.sublime-theme"
+                                }, 
+                                "caption": "Solarized Space Predawn"
+                            }
+                        ], 
+                        "caption": "Theme - Solarized Space"
+                    }, 
+                    {
+                        "children": [
+                            {
+                                "command": "switchtheme", 
+                                "args": {
+                                    "name": "Material Augmented Reaction.sublime-theme"
+                                }, 
+                                "caption": "Material Augmented Reaction"
+                            }, 
+                            {
+                                "command": "switchtheme", 
+                                "args": {
+                                    "name": "Material Behave.sublime-theme"
+                                }, 
+                                "caption": "Material Behave"
+                            }, 
+                            {
+                                "command": "switchtheme", 
+                                "args": {
+                                    "name": "Material Brogrammer.sublime-theme"
+                                }, 
+                                "caption": "Material Brogrammer"
+                            }, 
+                            {
+                                "command": "switchtheme", 
+                                "args": {
+                                    "name": "Material Cobalt.sublime-theme"
+                                }, 
+                                "caption": "Material Cobalt"
+                            }, 
+                            {
+                                "command": "switchtheme", 
+                                "args": {
+                                    "name": "Material Dracula.sublime-theme"
+                                }, 
+                                "caption": "Material Dracula"
+                            }, 
+                            {
+                                "command": "switchtheme", 
+                                "args": {
+                                    "name": "Material Facebook.sublime-theme"
+                                }, 
+                                "caption": "Material Facebook"
+                            }, 
+                            {
+                                "command": "switchtheme", 
+                                "args": {
+                                    "name": "Material Firewatch.sublime-theme"
+                                }, 
+                                "caption": "Material Firewatch"
+                            }, 
+                            {
+                                "command": "switchtheme", 
+                                "args": {
+                                    "name": "Material Flatland.sublime-theme"
+                                }, 
+                                "caption": "Material Flatland"
+                            }, 
+                            {
+                                "command": "switchtheme", 
+                                "args": {
+                                    "name": "Material Glacier.sublime-theme"
+                                }, 
+                                "caption": "Material Glacier"
+                            }, 
+                            {
+                                "command": "switchtheme", 
+                                "args": {
+                                    "name": "Material Monokai Soda.sublime-theme"
+                                }, 
+                                "caption": "Material Monokai Soda"
+                            }, 
+                            {
+                                "command": "switchtheme", 
+                                "args": {
+                                    "name": "Material Monokai.sublime-theme"
+                                }, 
+                                "caption": "Material Monokai"
+                            }, 
+                            {
+                                "command": "switchtheme", 
+                                "args": {
+                                    "name": "Material Oceanic Next.sublime-theme"
+                                }, 
+                                "caption": "Material Oceanic Next"
+                            }, 
+                            {
+                                "command": "switchtheme", 
+                                "args": {
+                                    "name": "Material One Dark.sublime-theme"
+                                }, 
+                                "caption": "Material One Dark"
+                            }, 
+                            {
+                                "command": "switchtheme", 
+                                "args": {
+                                    "name": "Material Primer Light.sublime-theme"
+                                }, 
+                                "caption": "Material Primer Light"
+                            }, 
+                            {
+                                "command": "switchtheme", 
+                                "args": {
+                                    "name": "Material Seti.sublime-theme"
+                                }, 
+                                "caption": "Material Seti"
+                            }, 
+                            {
+                                "command": "switchtheme", 
+                                "args": {
+                                    "name": "Material Solarized Dark.sublime-theme"
+                                }, 
+                                "caption": "Material Solarized Dark"
+                            }, 
+                            {
+                                "command": "switchtheme", 
+                                "args": {
+                                    "name": "Material Solarized Light.sublime-theme"
+                                }, 
+                                "caption": "Material Solarized Light"
+                            }, 
+                            {
+                                "command": "switchtheme", 
+                                "args": {
+                                    "name": "Material Spaceblack.sublime-theme"
+                                }, 
+                                "caption": "Material Spaceblack"
+                            }, 
+                            {
+                                "command": "switchtheme", 
+                                "args": {
+                                    "name": "Material Spacegray Eighties.sublime-theme"
+                                }, 
+                                "caption": "Material Spacegray Eighties"
+                            }, 
+                            {
+                                "command": "switchtheme", 
+                                "args": {
+                                    "name": "Material Spacegray Light.sublime-theme"
+                                }, 
+                                "caption": "Material Spacegray Light"
+                            }, 
+                            {
+                                "command": "switchtheme", 
+                                "args": {
+                                    "name": "Material Spacegray Mocha.sublime-theme"
+                                }, 
+                                "caption": "Material Spacegray Mocha"
+                            }, 
+                            {
+                                "command": "switchtheme", 
+                                "args": {
+                                    "name": "Material Spacegray.sublime-theme"
+                                }, 
+                                "caption": "Material Spacegray"
+                            }, 
+                            {
+                                "command": "switchtheme", 
+                                "args": {
+                                    "name": "Material Stereokai.sublime-theme"
+                                }, 
+                                "caption": "Material Stereokai"
+                            }, 
+                            {
+                                "command": "switchtheme", 
+                                "args": {
+                                    "name": "Material Toy Chest.sublime-theme"
+                                }, 
+                                "caption": "Material Toy Chest"
+                            }, 
+                            {
+                                "command": "switchtheme", 
+                                "args": {
+                                    "name": "Material Twilight.sublime-theme"
+                                }, 
+                                "caption": "Material Twilight"
+                            }, 
+                            {
+                                "command": "switchtheme", 
+                                "args": {
+                                    "name": "Material Vim Blackboard.sublime-theme"
+                                }, 
+                                "caption": "Material Vim Blackboard"
+                            }, 
+                            {
+                                "command": "switchtheme", 
+                                "args": {
+                                    "name": "Material Zenburn.sublime-theme"
+                                }, 
+                                "caption": "Material Zenburn"
+                            }
+                        ], 
+                        "caption": "themes"
+                    }, 
+                    {
+                        "id": "separator", 
+                        "caption": "-"
+                    }, 
+                    {
+                        "command": "refresh", 
+                        "caption": "Refresh Theme Cache"
+                    }
+                ], 
+                "caption": "Theme"
+            }
+        ]
+    }
+]
